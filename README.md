@@ -4,8 +4,8 @@ This is the final project of the [AI-Programming with Python Nanodregree by Udac
 
 ### Steps
 1. Developing an Image Classifier with Deep Learning
-  * Train a model
+    * Train a model
 2. Building the command line application
-  * Train the model
-  * Predict the class of an image
+    * Train the model
+    * Predict the class of an image
 
